@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/roboPWA/static/css/main.b6a889ff.chunk.css",
+    "main.css": "/roboPWA/static/css/main.5f4dbd0d.chunk.css",
     "main.js": "/roboPWA/static/js/main.dfd0dea2.chunk.js",
     "main.js.map": "/roboPWA/static/js/main.dfd0dea2.chunk.js.map",
     "runtime-main.js": "/roboPWA/static/js/runtime-main.784ca6b6.js",
@@ -9,10 +9,10 @@
     "static/js/2.277841f7.chunk.js": "/roboPWA/static/js/2.277841f7.chunk.js",
     "static/js/2.277841f7.chunk.js.map": "/roboPWA/static/js/2.277841f7.chunk.js.map",
     "index.html": "/roboPWA/index.html",
-    "precache-manifest.8a7ff23c53880e830582f283d8ec0873.js": "/roboPWA/precache-manifest.8a7ff23c53880e830582f283d8ec0873.js",
+    "precache-manifest.56a534c6b4a8640c3413791195cf413e.js": "/roboPWA/precache-manifest.56a534c6b4a8640c3413791195cf413e.js",
     "service-worker.js": "/roboPWA/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/roboPWA/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.b6a889ff.chunk.css.map": "/roboPWA/static/css/main.b6a889ff.chunk.css.map",
+    "static/css/main.5f4dbd0d.chunk.css.map": "/roboPWA/static/css/main.5f4dbd0d.chunk.css.map",
     "static/js/2.277841f7.chunk.js.LICENSE.txt": "/roboPWA/static/js/2.277841f7.chunk.js.LICENSE.txt",
     "static/media/App.css": "/roboPWA/static/media/SEGA.12a3db8b.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.784ca6b6.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.277841f7.chunk.js",
-    "static/css/main.b6a889ff.chunk.css",
+    "static/css/main.5f4dbd0d.chunk.css",
     "static/js/main.dfd0dea2.chunk.js"
   ]
 }
